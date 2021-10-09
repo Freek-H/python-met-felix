@@ -1,0 +1,103 @@
+id,first_name,middle_name,last_name,birth_date,marital_status,sex,email,salary,total_children,number_children_at_home,education,occupation,house_owner_flag,number_of_cars_owned,address,phone,date_first_purchase,commute_distance
+11000,Jon,V,Yang,06/10/1971,M,M,jon24@adventure-works.com,90000,2,0,Bachelors,Professional,1,0,3761 N. 14th St,1 (11) 500 555-0162,19/01/2011,1-2 Miles
+11001,Eugene,L,Huang,10/05/1976,S,M,eugene10@adventure-works.com,60000,3,3,Bachelors,Professional,0,1,2243 W St.,1 (11) 500 555-0110,15/01/2011,0-1 Miles
+11002,Ruben,,Torres,09/02/1971,M,M,ruben35@adventure-works.com,60000,3,3,Bachelors,Professional,1,1,5844 Linden Land,1 (11) 500 555-0184,07/01/2011,2-5 Miles
+11003,Christy,,Zhu,14/08/1973,S,F,christy12@adventure-works.com,70000,0,0,Bachelors,Professional,0,1,1825 Village Pl.,1 (11) 500 555-0162,29/12/2010,5-10 Miles
+11004,Elizabeth,,Johnson,05/08/1979,S,F,elizabeth5@adventure-works.com,80000,5,5,Bachelors,Professional,1,4,7553 Harness Circle,1 (11) 500 555-0131,23/01/2011,1-2 Miles
+11005,Julio,,Ruiz,01/08/1976,S,M,julio1@adventure-works.com,70000,0,0,Bachelors,Professional,1,1,7305 Humphrey Drive,1 (11) 500 555-0151,30/12/2010,5-10 Miles
+11006,Janet,G,Alvarez,02/12/1976,S,F,janet9@adventure-works.com,70000,0,0,Bachelors,Professional,1,1,2612 Berry Dr,1 (11) 500 555-0184,24/01/2011,5-10 Miles
+11007,Marco,,Mehta,06/11/1969,M,M,marco14@adventure-works.com,60000,3,3,Bachelors,Professional,1,2,942 Brook Street,1 (11) 500 555-0126,09/01/2011,0-1 Miles
+11008,Rob,,Verhoff,04/07/1975,S,F,rob4@adventure-works.com,60000,4,4,Bachelors,Professional,1,3,624 Peabody Road,1 (11) 500 555-0164,25/01/2011,10+ Miles
+11009,Shannon,C,Carlson,29/09/1969,S,M,shannon38@adventure-works.com,70000,0,0,Bachelors,Professional,0,1,3839 Northgate Road,1 (11) 500 555-0110,27/01/2011,5-10 Miles
+11010,Jacquelyn,C,Suarez,05/08/1969,S,F,jacquelyn20@adventure-works.com,70000,0,0,Bachelors,Professional,0,1,7800 Corrinne Court,1 (11) 500 555-0169,14/01/2011,5-10 Miles
+11011,Curtis,,Lu,03/05/1969,M,M,curtis9@adventure-works.com,60000,4,4,Bachelors,Professional,1,4,1224 Shoenic,1 (11) 500 555-0117,30/12/2010,10+ Miles
+11012,Lauren,M,Walker,14/01/1979,M,F,lauren41@adventure-works.com,100000,2,0,Bachelors,Management,1,2,4785 Scott Street,717-555-0164,16/03/2013,1-2 Miles
+11013,Ian,M,Jenkins,03/08/1979,M,M,ian47@adventure-works.com,100000,2,0,Bachelors,Management,1,3,7902 Hudson Ave.,817-555-0185,13/04/2013,0-1 Miles
+11014,Sydney,,Bennett,06/11/1973,S,F,sydney23@adventure-works.com,100000,3,0,Bachelors,Management,0,3,9011 Tank Drive,431-555-0156,23/03/2013,1-2 Miles
+11015,Chloe,,Young,26/08/1984,S,F,chloe23@adventure-works.com,30000,0,0,Partial College,Skilled Manual,0,1,244 Willow Pass Road,208-555-0142,18/01/2013,5-10 Miles
+11016,Wyatt,L,Hill,25/10/1984,M,M,wyatt32@adventure-works.com,30000,0,0,Partial College,Skilled Manual,1,1,9666 Northridge Ct.,135-555-0171,09/02/2013,5-10 Miles
+11017,Shannon,,Wang,24/12/1949,S,F,shannon1@adventure-works.com,20000,4,0,High School,Skilled Manual,1,2,7330 Saddlehill Lane,1 (11) 500 555-0195,12/01/2011,5-10 Miles
+11018,Clarence,D,Rai,06/10/1955,S,M,clarence32@adventure-works.com,30000,2,0,Partial College,Clerical,1,2,244 Rivewview,1 (11) 500 555-0137,17/01/2011,5-10 Miles
+11019,Luke,L,Lal,04/09/1983,S,M,luke18@adventure-works.com,40000,0,0,High School,Skilled Manual,0,2,7832 Landing Dr,262-555-0112,12/02/2013,5-10 Miles
+11020,Jordan,C,King,19/03/1984,S,M,jordan73@adventure-works.com,40000,0,0,High School,Skilled Manual,0,2,7156 Rose Dr.,550-555-0163,29/12/2012,1-2 Miles
+11021,Destiny,,Wilson,02/03/1984,S,F,destiny7@adventure-works.com,40000,0,0,Partial College,Skilled Manual,0,1,8148 W. Lake Dr.,622-555-0158,23/01/2013,1-2 Miles
+11022,Ethan,G,Zhang,10/04/1984,M,M,ethan20@adventure-works.com,40000,0,0,Partial College,Skilled Manual,1,1,1769 Nicholas Drive,589-555-0185,20/01/2013,5-10 Miles
+11023,Seth,M,Edwards,09/04/1984,M,M,seth46@adventure-works.com,40000,0,0,Partial College,Skilled Manual,1,1,4499 Valley Crest,452-555-0188,17/02/2013,1-2 Miles
+11024,Russell,,Xie,16/03/1984,M,M,russell7@adventure-works.com,60000,0,0,Partial College,Skilled Manual,1,2,8734 Oxford Place,746-555-0186,27/06/2013,5-10 Miles
+11025,Alejandro,,Beck,22/06/1951,M,M,alejandro45@adventure-works.com,10000,2,1,Partial High School,Clerical,1,2,2596 Franklin Canyon Road,1 (11) 500 555-0178,06/01/2011,1-2 Miles
+11026,Harold,,Sai,01/10/1951,S,M,harold3@adventure-works.com,30000,2,0,Partial College,Clerical,0,2,8211 Leeds Ct.,1 (11) 500 555-0131,23/01/2011,1-2 Miles
+11027,Jessie,R,Zhao,05/06/1952,M,M,jessie16@adventure-works.com,30000,2,0,Partial College,Clerical,1,2,213 Valencia Place,1 (11) 500 555-0184,16/01/2011,5-10 Miles
+11028,Jill,,Jimenez,09/10/1951,M,F,jill13@adventure-works.com,30000,2,0,Partial College,Clerical,1,2,9111 Rose Ann Ave,1 (11) 500 555-0116,26/01/2011,1-2 Miles
+11029,Jimmy,L,Moreno,19/06/1952,M,M,jimmy9@adventure-works.com,30000,2,0,Partial College,Clerical,1,2,6385 Mark Twain,1 (11) 500 555-0146,19/01/2011,1-2 Miles
+11030,Bethany,G,Yuan,18/02/1958,M,F,bethany10@adventure-works.com,10000,2,1,Partial High School,Clerical,1,2,636 Vine Hill Way,1 (11) 500 555-0182,05/02/2011,1-2 Miles
+11031,Theresa,G,Ramos,18/02/1953,M,F,theresa13@adventure-works.com,20000,4,0,High School,Skilled Manual,1,2,6465 Detroit Ave.,1 (11) 500 555-0195,01/02/2011,1-2 Miles
+11032,Denise,,Stone,08/12/1952,M,F,denise10@adventure-works.com,20000,4,0,High School,Skilled Manual,1,2,626 Bentley Street,1 (11) 500 555-0169,18/02/2011,1-2 Miles
+11033,Jaime,,Nath,19/09/1958,M,M,jaime41@adventure-works.com,20000,4,0,High School,Skilled Manual,1,2,5927 Rainbow Dr,1 (11) 500 555-0137,15/02/2011,5-10 Miles
+11034,Ebony,,Gonzalez,16/12/1952,M,F,ebony19@adventure-works.com,20000,4,0,High School,Skilled Manual,1,2,5167 Condor Place,1 (11) 500 555-0136,01/02/2011,5-10 Miles
+11035,Wendy,,Dominguez,23/08/1953,M,F,wendy12@adventure-works.com,10000,2,1,Partial High School,Clerical,1,2,1873 Mt. Whitney Dr,1 (11) 500 555-0177,06/02/2011,1-2 Miles
+11036,Jennifer,C,Russell,16/06/1984,M,F,jennifer93@adventure-works.com,60000,0,0,Partial College,Skilled Manual,1,2,3981 Augustine Drive,115-555-0183,22/01/2013,1-2 Miles
+11037,Chloe,M,Garcia,27/05/1983,S,F,chloe27@adventure-works.com,40000,0,0,Partial High School,Clerical,0,2,8915 Woodside Way,229-555-0112,20/01/2013,5-10 Miles
+11038,Diana,F,Hernandez,20/09/1953,M,F,diana2@adventure-works.com,10000,2,1,Partial High School,Clerical,1,2,8357 Sandy Cove Lane,1 (11) 500 555-0114,07/02/2011,5-10 Miles
+11039,Marc,J,Martin,16/06/1954,M,M,marc3@adventure-works.com,30000,3,0,Partial College,Clerical,1,2,9353 Creekside Dr.,1 (11) 500 555-0183,07/02/2011,5-10 Miles
+11040,Jesse,,Murphy,29/01/1983,M,M,jesse15@adventure-works.com,30000,0,0,Partial College,Skilled Manual,1,2,3350 Kingswood Circle,961-555-0176,03/04/2013,1-2 Miles
+11041,Amanda,M,Carter,15/04/1983,M,F,amanda53@adventure-works.com,60000,0,0,Partial College,Skilled Manual,1,2,5826 Escobar,295-555-0145,14/01/2013,1-2 Miles
+11042,Megan,J,Sanchez,11/12/1982,M,F,megan28@adventure-works.com,70000,0,0,Partial College,Skilled Manual,1,2,1397 Paraiso Ct.,404-555-0199,21/01/2013,0-1 Miles
+11043,Nathan,M,Simmons,23/08/1981,M,M,nathan11@adventure-works.com,60000,0,0,Partial College,Skilled Manual,1,2,1170 Shaw Rd,296-555-0181,08/05/2013,5-10 Miles
+11044,Adam,L,Flores,21/11/1954,M,M,adam10@adventure-works.com,20000,2,1,Partial High School,Clerical,1,2,6935 Candle Dr,1 (11) 500 555-0163,28/02/2011,1-2 Miles
+11045,Leonard,G,Nara,16/11/1955,S,M,leonard18@adventure-works.com,30000,3,0,High School,Skilled Manual,0,2,7466 La Vista Ave.,1 (11) 500 555-0151,10/04/2013,1-2 Miles
+11046,Christine,,Yuan,19/09/1955,M,F,christine4@adventure-works.com,30000,3,0,High School,Skilled Manual,1,2,2356 Orange St,1 (11) 500 555-0113,06/02/2011,5-10 Miles
+11047,Jaclyn,D,Lu,27/08/1955,M,F,jaclyn12@adventure-works.com,30000,3,0,High School,Skilled Manual,0,2,2812 Mazatlan,1 (11) 500 555-0137,03/02/2011,1-2 Miles
+11048,Jeremy,,Powell,21/05/1956,M,M,jeremy26@adventure-works.com,30000,3,0,High School,Skilled Manual,1,2,1803 Potomac Dr.,1 (11) 500 555-0183,10/02/2011,5-10 Miles
+11049,Carol,C,Rai,15/01/1986,S,F,carol8@adventure-works.com,40000,0,0,Partial High School,Clerical,1,2,6064 Madrid,654-555-0180,09/03/2013,5-10 Miles
+11050,Alan,,Zheng,06/03/1957,M,M,alan23@adventure-works.com,30000,3,0,High School,Skilled Manual,1,2,2741 Gainborough Dr.,1 (11) 500 555-0135,20/02/2011,5-10 Miles
+11051,Daniel,,Johnson,31/01/1957,S,M,daniel18@adventure-works.com,30000,3,0,High School,Skilled Manual,0,2,8085 Sunnyvale Avenue,1 (11) 500 555-0155,29/12/2013,1-2 Miles
+11052,Heidi,,Lopez,03/02/1957,S,F,heidi19@adventure-works.com,40000,2,0,Partial College,Clerical,0,2,2514 Via Cordona,1 (11) 500 555-0168,17/02/2011,5-10 Miles
+11053,Ana,E,Price,17/02/1986,M,F,ana0@adventure-works.com,60000,0,0,Partial College,Skilled Manual,0,2,1660 Stonyhill Circle,859-555-0113,17/01/2013,1-2 Miles
+11054,Deanna,,Munoz,07/09/1957,M,F,deanna33@adventure-works.com,40000,2,0,Partial College,Skilled Manual,1,2,5825 B Way,1 (11) 500 555-0192,03/02/2011,5-10 Miles
+11055,Gilbert,,Raje,02/09/1957,M,M,gilbert35@adventure-works.com,40000,2,0,Partial College,Skilled Manual,1,2,8811 The Trees Dr.,1 (11) 500 555-0129,31/01/2011,5-10 Miles
+11056,Michele,L,Nath,01/10/1958,M,F,michele19@adventure-works.com,40000,3,0,Partial College,Skilled Manual,1,2,5464 Janin Pl.,1 (11) 500 555-0178,26/02/2011,5-10 Miles
+11057,Carl,J,Andersen,07/04/1970,M,M,carl12@adventure-works.com,70000,2,0,Graduate Degree,Management,1,2,6930 Lake Nadine Place,1 (11) 500 555-0181,22/02/2011,1-2 Miles
+11058,Marc,,Diaz,23/04/1965,M,M,marc6@adventure-works.com,80000,2,0,Partial College,Skilled Manual,1,2,6645 Sinaloa,1 (11) 500 555-0149,09/03/2011,1-2 Miles
+11059,Ashlee,J,Andersen,29/09/1959,S,F,ashlee19@adventure-works.com,80000,2,0,Partial College,Skilled Manual,1,2,8255 Highland Road,1 (11) 500 555-0112,18/02/2013,5-10 Miles
+11060,Jon,L,Zhou,14/09/1959,M,M,jon28@adventure-works.com,80000,2,0,Partial College,Skilled Manual,1,2,6574 Hemlock Ave.,1 (11) 500 555-0174,19/03/2011,5-10 Miles
+11061,Todd,M,Gao,20/02/1976,M,M,todd14@adventure-works.com,80000,2,0,Partial College,Skilled Manual,1,2,8808 Geneva Ave,1 (11) 500 555-0191,13/03/2011,5-10 Miles
+11062,Noah,D,Powell,01/03/1981,M,M,noah5@adventure-works.com,40000,0,0,High School,Skilled Manual,1,2,9794 Marion Ct,767-555-0113,07/01/2013,5-10 Miles
+11063,Angela,,Murphy,04/10/1980,S,F,angela41@adventure-works.com,40000,0,0,High School,Skilled Manual,1,2,4927 Virgil Street,451-555-0162,12/01/2013,5-10 Miles
+11064,Chase,,Reed,05/06/1981,M,M,chase21@adventure-works.com,40000,0,0,High School,Skilled Manual,1,2,2721 Alexander Pl.,892-555-0184,25/01/2013,5-10 Miles
+11065,Jessica,,Henderson,08/04/1979,M,F,jessica29@adventure-works.com,60000,0,0,Partial College,Skilled Manual,0,2,9343 Ironwood Way,278-555-0186,10/02/2013,1-2 Miles
+11066,Grace,T,Butler,27/05/1979,M,F,grace62@adventure-works.com,70000,0,0,Partial College,Professional,1,2,4739 Garden Ave.,712-555-0141,31/05/2013,5-10 Miles
+11067,Caleb,F,Carter,25/03/1982,S,M,caleb40@adventure-works.com,60000,0,0,Partial College,Professional,1,2,9563 Pennsylvania Blvd.,944-555-0167,18/08/2013,5-10 Miles
+11068,Tiffany,,Liang,19/09/1966,S,F,tiffany17@adventure-works.com,80000,2,0,High School,Skilled Manual,1,2,3608 Sinclair Avenue,1 (11) 500 555-0177,30/04/2013,5-10 Miles
+11069,Carolyn,,Navarro,17/09/1966,S,F,carolyn30@adventure-works.com,80000,2,0,High School,Skilled Manual,0,2,4606 Springwood Court,1 (11) 500 555-0145,17/04/2011,1-2 Miles
+11070,Willie,T,Raji,02/10/1960,M,M,willie40@adventure-works.com,80000,2,0,High School,Skilled Manual,1,2,6260 Vernal Drive,1 (11) 500 555-0151,28/04/2011,5-10 Miles
+11071,Linda,,Serrano,23/12/1960,S,F,linda31@adventure-works.com,80000,2,0,High School,Skilled Manual,1,2,9808 Shaw Rd.,1 (11) 500 555-0130,01/03/2013,5-10 Miles
+11072,Casey,,Luo,05/08/1960,S,F,casey6@adventure-works.com,80000,2,0,High School,Skilled Manual,0,2,9513 Roslyn Drive,1 (11) 500 555-0125,31/03/2011,1-2 Miles
+11073,Amy,,Ye,11/02/1962,S,F,amy16@adventure-works.com,70000,2,0,High School,Skilled Manual,1,2,2262 Kirkwood Ct.,1 (11) 500 555-0185,23/03/2013,5-10 Miles
+11074,Levi,A,Arun,25/02/1962,S,M,levi6@adventure-works.com,70000,2,0,High School,Skilled Manual,1,2,4661 Bluetail,1 (11) 500 555-0127,23/03/2013,5-10 Miles
+11075,Felicia,L,Jimenez,16/05/1963,S,F,felicia4@adventure-works.com,80000,2,0,High School,Professional,1,2,786 Eastgate Ave,1 (11) 500 555-0165,28/04/2011,5-10 Miles
+11076,Blake,,Anderson,10/01/1963,S,M,blake9@adventure-works.com,80000,2,0,High School,Professional,1,2,5436 Clear,1 (11) 500 555-0113,21/04/2011,5-10 Miles
+11077,Leah,,Ye,19/03/1963,S,F,leah7@adventure-works.com,80000,2,0,High School,Professional,0,2,1291 Arguello Blvd.,1 (11) 500 555-0154,15/04/2011,1-2 Miles
+11078,Gina,E,Martin,06/01/1985,S,F,gina1@adventure-works.com,40000,0,0,High School,Professional,0,2,1349 Sol St.,196-555-0114,15/02/2013,1-2 Miles
+11079,Donald,,Gonzalez,07/03/1970,S,M,donald20@adventure-works.com,160000,0,0,Graduate Degree,Management,1,2,4236 Malibu Place,1 (11) 500 555-0137,15/03/2013,0-1 Miles
+11080,Damien,,Chander,13/01/1965,M,M,damien32@adventure-works.com,170000,0,0,Graduate Degree,Management,1,2,9941 Stonehedge Dr.,1 (11) 500 555-0111,10/04/2011,0-1 Miles
+11081,Savannah,C,Baker,21/01/1972,M,F,savannah39@adventure-works.com,120000,2,2,Bachelors,Management,1,3,1210 Trafalgar Circle,478-555-0117,12/02/2013,2-5 Miles
+11082,Angela,L,Butler,01/02/1972,S,F,angela17@adventure-works.com,130000,0,1,Graduate Degree,Management,0,3,6040 Listing Ct,579-555-0195,22/01/2013,1-2 Miles
+11083,Alyssa,F,Cox,11/03/1977,M,F,alyssa37@adventure-works.com,130000,0,1,Graduate Degree,Management,1,3,867 La Orinda Place,561-555-0140,06/01/2013,1-2 Miles
+11084,Lucas,,Phillips,12/03/1963,S,M,lucas7@adventure-works.com,80000,2,0,Partial High School,Skilled Manual,0,2,8668 St. Celestine Court,863-555-0172,04/01/2013,1-2 Miles
+11085,Emily,,Johnson,16/01/1963,S,F,emily1@adventure-works.com,60000,2,0,High School,Professional,0,2,7926 Stephanie Way,850-555-0184,06/12/2013,5-10 Miles
+11086,Ryan,,Brown,22/06/1963,M,M,ryan43@adventure-works.com,70000,2,1,Partial College,Professional,1,0,2939 Wesley Ct.,539-555-0198,02/07/2013,0-1 Miles
+11087,Tamara,L,Liang,02/04/1963,M,F,tamara6@adventure-works.com,70000,3,2,Partial College,Professional,0,0,3791 Rossmor Parkway,178-555-0152,25/02/2013,0-1 Miles
+11088,Hunter,,Davis,25/05/1963,M,M,hunter64@adventure-works.com,80000,2,1,Bachelors,Management,1,0,4308 Sand Pointe Lane,612-555-0141,13/01/2013,2-5 Miles
+11089,Abigail,M,Price,05/08/1962,S,F,abigail25@adventure-works.com,80000,2,1,Bachelors,Management,1,1,2685 Blackburn Ct,532-555-0117,29/12/2012,2-5 Miles
+11090,Trevor,,Bryant,13/12/1968,S,M,trevor18@adventure-works.com,90000,2,0,Partial College,Professional,1,1,5781 Sharon Dr.,853-555-0174,07/08/2011,2-5 Miles
+11091,Dalton,,Perez,02/10/1962,M,M,dalton37@adventure-works.com,90000,2,0,Partial College,Professional,1,1,6083 San Jose,559-555-0115,29/01/2013,5-10 Miles
+11092,Cheryl,A,Diaz,02/11/1972,M,F,cheryl4@adventure-works.com,90000,2,2,Bachelors,Professional,1,0,7297 Kaywood Drive,1 (11) 500 555-0192,08/04/2011,1-2 Miles
+11093,Aimee,A,He,06/09/1978,M,F,aimee13@adventure-works.com,100000,0,0,Graduate Degree,Management,1,0,1833 Olympic Drive,1 (11) 500 555-0161,07/04/2011,0-1 Miles
+11094,Cedric,W,Ma,29/09/1967,S,M,cedric15@adventure-works.com,70000,1,0,Partial College,Skilled Manual,0,1,3407 Oak Brook Place,1 (11) 500 555-0115,07/04/2013,0-1 Miles
+11095,Chad,,Kumar,29/02/1968,S,M,chad9@adventure-works.com,70000,1,0,Partial College,Skilled Manual,1,1,1681 Lighthouse Way,1 (11) 500 555-0151,01/04/2011,5-10 Miles
+11096,Andrés,,Anand,07/02/1968,M,M,andrés18@adventure-works.com,60000,1,0,Bachelors,Professional,1,1,5423 Los Gatos Ct.,1 (11) 500 555-0184,11/04/2011,5-10 Miles
+11097,Edwin,R,Nara,23/10/1972,M,M,edwin39@adventure-works.com,60000,1,0,Partial College,Skilled Manual,1,1,719 William Way,1 (11) 500 555-0112,04/04/2011,5-10 Miles
+11098,Mallory,S,Rubio,29/10/1966,S,F,mallory7@adventure-works.com,60000,1,0,Partial College,Skilled Manual,0,1,6452 Harris Circle,1 (11) 500 555-0157,11/02/2013,0-1 Miles
+11099,Adam,,Ross,05/09/1966,M,M,adam2@adventure-works.com,60000,1,0,Bachelors,Professional,1,1,4378 Westminster Place,1 (11) 500 555-0186,07/04/2011,0-1 Miles
+11100,Latasha,L,Navarro,15/03/1966,S,F,latasha10@adventure-works.com,60000,1,0,Partial College,Skilled Manual,1,1,6954 Ranch Road,1 (11) 500 555-0123,16/04/2011,5-10 Miles
+11101,Abby,L,Sai,05/11/1970,S,F,abby4@adventure-works.com,70000,0,0,Bachelors,Professional,0,1,7074 N. Spoonwood Court,1 (11) 500 555-0174,29/04/2011,0-1 Miles

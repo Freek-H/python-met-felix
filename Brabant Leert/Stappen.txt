@@ -1,0 +1,115 @@
+Is Python geinstalleerd?
+	python --version
+
+Installeren Jupyter notebook:
+	pip install notebook
+
+Installeren matplotlib:
+	pip install matplotlib
+
+Installeren pandas:
+	pip install pandas
+
+Starten Jupyter Notebook
+	jupyter notebook
+
+Nieuwe notebook maken:
+	new > Python 3
+
+Titel geven?
+Alleen nodig als er niet vanuit een template gewerkt wordt.
+
+
+Hoe gebruik je cellen: 
+Nieuwe cel maken: + in UI, (a)bove, (b)elow
+Cel selecteren: Blauw
+Cel editen: Groen
+Switchen: groen -> blauw = esc/klikken voor de cel
+	blauw -> groen = enter/klikken in de cel
+Hoe heten die modi?
+In blauw: met pijltjes bewegen, kopieren plakken met x, c, v
+	undo: z
+Cel verwijderen: dd
+Line numbers: l
+4 typen, alleen markdown en code nu belangrijk
+Switchen naar markdown met m
+Switchen naar code met y
+Allemaal te vinden onder help (h)
+
+Schrijven van een cel: misschien markdown van '# Importeren'
+	Uitvoeren: shift+enter om uit te voeren en volgende cell te selecteren
+			ctrl+enter om alleen uit te voeren
+
+Schrijven imports:
+	import pandas as pd
+	import matplotlib.pyplot as plt
+	# Uitleggen wat import as doet
+	# In [*]: betekent dat de cell uitgevoerd wordt
+	# In [1]: geeft aan dat de cell uitgevoerd is en in welke volgorde
+	from datetime import datetime # Komt er later pas bij
+
+Data inladen:
+	markdown: # Data inladen
+	methode read_csv van pandas -> methode is een functie van een class, class hier is pandas (pd) en de methode dus read_csv
+		Als je zelf wil weten wat je kan gebruiken: op internet zoeken met bijvoorbeeld: how to read csv with pandas
+			Engels is altijd aan te raden, kan ook korter: pandas read csv
+	slaan het op in variabele df
+	Je kan variabelen laten outputten als je alleen de naam als laatste regel geeft
+		Werkt voor Jupyter+Pandas ook beter (voorbeeld print(df))
+
+Eerste indruk data krijgen:
+	markdown: # Eerste indruk van de data
+	Kan ook eerste x laten zien met df.head(x)
+	Welke kolommen zijn er? df.columns
+	Welke typen waarden zijn er? df.dtypes
+	Welke waarden zijn er? Denk aan range, gemiddelde, standaardafwijking: df.min(), df.max(), df.mean(), df.std()
+
+	Kan ook allemaal tegelijk voor een handig overzicht:
+	.describe() voor statistieken van numerieke data
+	.describe(include='all') voor alle statistieken (non-numeriek alleen top frequency)
+	Laat even weten hoe te vinden -> online -> zijn vaak nog meer opties die interessant kunnen zijn
+
+Geslacht en kolommen selecteren:
+	markdown: # Geslacht en kolommen selecteren
+	met ['sex'] kunnen we de kolom met de geslachtsinformatie laten zien, nu hebben we echter wel een minder mooie layout.
+		dit komt omdat we een serie hebben geselecteerd
+	met [['sex']] kunnen we het als dataframe selecteren
+	Dit komt ook goed van pas als er meerdere kolommen gewenst zijn: [['first_name', 'sex']]
+	De volgorder hier bepaal je zelf: [['sex', 'first_name']]
+	
+Eerste visualisatie:
+	markdown: # Eerste visualisatie
+	Met matplotlib kunnen we een visualisatie maken van de verdeling mannen en vrouwen:
+plt.hist(df['sex'])
+plt.title('Histogram van geslacht')
+plt.show()
+	.hist maakt het histogram
+	.title geeft de visualisatie een titel, erg belangrijk om te doen zodat de 'lezer' weet waar naar gekeken wordt. Het liefst label je ook de assen
+	.show() is niet per se nodig in Jupyter, maar zorgt dat de repr info niet zichtbaar wordt én is noodzakelijk in normale python scripts/programma's
+	Maar hoeveel zijn het er nu precies:
+df['sex'].value_counts()
+	Ook te zien in de .describe(include='all'), al is het mogelijk iets lastiger te zien. 102 datapunten, 2 geslachten, M komt het 'meeste' voor met 51 keer. Dus 51/51
+
+Hoe zit het met salarissen?
+	markdown: # Hoe zit het met salarissen?
+	Wederom gebruiken we matplotlib voor de visualisatie. Ook hier is een histogram weer de beste visualisatie om te gebruiken.
+plt.hist(df['salary'])
+plt.title('Histogram van salaris')
+plt.ylabel('Aantal personen')
+plt.xlabel('Jaarsalaris [$]')
+plt.show()
+	.ylabel en .xlabel geven de assen labels, hier noodzakelijk voor de 'lezer' omdat anders de eenheden niet duidelijk hoeven te zijn.
+	Er is een soort tweedeling te zien: salarissen onder de 40k en boven de 60k
+	Is dit mogelijk te verklaren?
+
+Zijn er verbanden tussen salaris en een van de andere variabelen?
+	markdown: # Zijn er verbanden tussen salaris en een van de andere variabelen?
+df.corr()
+	Weinig variabelen worden meegenomen: alleen numerieke.
+	ID is eentje die we sowieso niet moeten bekijken, maar heeft de sterkste correlatie met salaris. De volgende sterkste correlatie is die tussen het aantal kinderen en het aantal kinderen dat thuis wonen. Niet een heel gek resultaat.
+	Wat als we naar geslacht, burgerlijke staat of leeftijd willen kijken?
+	Transformeren van die variabelen naar numerieke waarden. <Kardinaal, Ordinaal, Nominaal???> https://www.mathsisfun.com/numbers/cardinal-ordinal-nominal.html
+		Er is geen volgorde tussen man of vrouw, dus Nominaal
+		Hetzelfde is te zeggen voor single/getrouwd
+		Leeftijd is Kardinaal (te tellen en heeft een volgorde)
+		<Nog een ordinaal voorbeeld? Is burgerlijke staat oridinaal?)
