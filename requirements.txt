@@ -2,4 +2,5 @@ pandas
 matplotlib
 numpy
 notebook
+jupyter-lab
 mysql-connector-python
