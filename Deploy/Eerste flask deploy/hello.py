@@ -8,11 +8,7 @@ DATABASE_LOGIN = {
     'NAME': os.environ.get('AZURE_NAME'),
     'USER': os.environ.get('AZURE_USER'),
     'PASSWORD': os.environ.get('AZURE_PASSWORD'),
-    'HOST': os.environ.get('AZURE_HOST'),
-    'PORT': os.environ.get('AZURE_PORT'),
-    'OPTIONS': {
-        'driver': 'ODBC Driver 17 for SQL Server',
-    },
+    'HOST': os.environ.get('AZURE_HOST')
 }
 
 app = Flask(__name__)
