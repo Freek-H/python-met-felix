@@ -1,0 +1,7 @@
+SELECT
+	land.Name AS Land
+    ,stad.Name AS Hoofdstad
+  FROM country AS land
+  JOIN city AS stad
+  	ON land.Capital = stad.ID
+WHERE land.Capital IS NOT NULL;

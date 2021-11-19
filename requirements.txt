@@ -4,3 +4,6 @@ numpy
 notebook
 jupyter-lab
 mysql-connector-python
+Flask
+python-dotenv
+pyodbc
